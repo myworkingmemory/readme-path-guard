@@ -101,4 +101,4 @@ A plain footnote[^guard-fixture].
 
 ![An [example](docs/not-an-alt-link.md) in alternate text](assets/icon.png)
 
-[Deliberately broken](docs/deliberately-missing.md)
+[Repaired target](SECURITY.md)
