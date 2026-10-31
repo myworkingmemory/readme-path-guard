@@ -91,3 +91,14 @@ The checked-in bundles allow users to run the Action without installing packages
 Open an [issue](https://github.com/myworkingmemory/readme-path-guard/issues) for a reproducible problem, or email dean@myworkingmemory.ai. Keep private repository content and credentials out of public issues. See [data handling](PRIVACY.md) and [security reporting](SECURITY.md).
 
 Copyright 2026 Myworkingmemory. Licensed under [Apache-2.0](LICENSE).
+
+
+## Owned acceptance fixture
+
+A plain footnote[^guard-fixture].
+
+[^guard-fixture]: docs/not-a-link.md
+
+![An [example](docs/not-an-alt-link.md) in alternate text](assets/icon.png)
+
+[Deliberately broken](docs/deliberately-missing.md)
