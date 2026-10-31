@@ -114,3 +114,5 @@ Made by [MyWKM](https://www.myworkingmemory.ai/tools/readme-path-guard-95ee4b66e
 Open an [issue](https://github.com/myworkingmemory/readme-path-guard/issues) for a reproducible problem, or email dean@myworkingmemory.ai. Keep private repository content and credentials out of public issues. See [data handling](PRIVACY.md) and [security reporting](SECURITY.md).
 
 Copyright 2026 Myworkingmemory. Licensed under [Apache-2.0](LICENSE).
+
+Live recovery fixture: [temporary missing target](docs/app-plan-recovery-missing.md).
